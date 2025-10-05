@@ -1,7 +1,9 @@
 # Dance World Championship Analysis
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ## Project Overview
 This project analyses 11 years of competition data from The Dance Worlds, the world’s largest all star international dance championship. As I competed myself in the competition placing 15th in the Open Contemporary and Lyrical division with Explosion from Intensity Cheer and Dance, England, I wanted to understand the patterns behind this incredible competition. Through web scraping, data cleaning, and interactive visualisations, I have created a comprehensive analysis of 1,953 performances across 40 countries from 2015 to 2025. 
+
+![Dashboard Screenshot](Images/dashboard.png)
 
 Live Dashboard: https://public.tableau.com/app/profile/nicole.reeves2241/viz/Dance_Worlds/Dashboard1
 
